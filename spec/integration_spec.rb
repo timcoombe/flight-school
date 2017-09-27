@@ -14,6 +14,7 @@ RSpec.describe "The FlightSchool application" do
 
   before do
     WebMock.allow_net_connect!
+zzzz
   end
 
   after do
